@@ -1,4 +1,4 @@
-README: Customer Satisfaction Data Analysis
+ Customer Satisfaction Data Analysis
 
 📊 Overview
 This project involves cleaning and analyzing customer survey data with a focus on understanding overall satisfaction ratings. The goal is to explore central tendency, variability, and distribution of customer feedback using statistical techniques and visualizations.
